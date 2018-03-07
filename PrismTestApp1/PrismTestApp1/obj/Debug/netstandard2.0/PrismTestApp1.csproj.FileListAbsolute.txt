@@ -1,0 +1,12 @@
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\bin\Debug\netstandard2.0\PrismTestApp1.deps.json
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\bin\Debug\netstandard2.0\PrismTestApp1.dll
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\bin\Debug\netstandard2.0\PrismTestApp1.pdb
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.csprojResolveAssemblyReference.cache
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.csproj.CoreCompileInputs.cache
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.App.xaml.g.cs
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.Views.MainPage.xaml.g.cs
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.AssemblyInfoInputs.cache
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.AssemblyInfo.cs
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.dll
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.pdb
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.Views.PrismContentPage1.xaml.g.cs
