@@ -34,7 +34,11 @@ namespace PrismTestApp1.ViewModels
 
         public void NavigateToContentPage()
         {
-            _navigationService.NavigateAsync("PrismContentPage1");
+
+            var x = new NavigationParameters();
+            x.Add("title", "potato");
+
+            _navigationService.NavigateAsync("PrismContentPage1", x);
             btnMessage = "i was clicked!";
         }
 

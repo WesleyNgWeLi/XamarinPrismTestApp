@@ -7,32 +7,27 @@ using System.Linq;
 
 namespace PrismTestApp1.ViewModels
 {
-	public class PrismContentPage1ViewModel : BindableBase
+	public class PrismContentPage1ViewModel : BindableBase, INavigatingAware
 	{
 
 
-        //this is how you bind a XAML Command
-        public DelegateCommand DoSomething => new DelegateCommand(NavigateToContentPage);
-
-        //this is how you bind a variable in XAML
-        public string btnMessage
+        public string titleMessage
         {
-            get { return _btnMessage; }
-            set { SetProperty(ref _btnMessage, value); }
+            get { return _titleMessage; }
+            set { SetProperty(ref _titleMessage, value); }
         }
 
-        private string _btnMessage;
+        private string _titleMessage;
 
 
-        public void NavigateToContentPage()
-        {
-            _navigationService.NavigateAsync("PrismContentPage1");
-            btnMessage = "i was clicked!";
-        }
-
-        public PrismContentPage1ViewModel(INavigationService navigationService)
+        public PrismContentPage1ViewModel()
         {
 
         }
-	}
+
+        public void OnNavigatingTo(NavigationParameters parameters)
+        {
+            titleMessage = (string)parameters["title"];
+        }
+    }
 }

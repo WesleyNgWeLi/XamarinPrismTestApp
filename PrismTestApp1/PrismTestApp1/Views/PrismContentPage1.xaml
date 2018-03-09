@@ -7,6 +7,6 @@
 
 
     <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Label Text="blubb?!!" />
+        <Label Text="{Binding titleMessage}" />
     </StackLayout>
 </ContentPage>
