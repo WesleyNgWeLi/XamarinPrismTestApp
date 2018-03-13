@@ -24,7 +24,7 @@ namespace PrismTestApp1
         {
             InitializeComponent();
 
-            await NavigationService.NavigateAsync("NavigationPage/MainPage");
+            await NavigationService.NavigateAsync("PrismMasterDetailPage1/NavigationPage/MainPage");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
@@ -32,6 +32,7 @@ namespace PrismTestApp1
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MainPage>();
             containerRegistry.RegisterForNavigation<PrismContentPage1>();
+            containerRegistry.RegisterForNavigation<PrismMasterDetailPage1>();
         }
     }
 }

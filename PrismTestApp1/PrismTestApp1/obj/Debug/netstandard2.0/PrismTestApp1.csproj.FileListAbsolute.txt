@@ -10,3 +10,4 @@ C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\ne
 C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.dll
 C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.pdb
 C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.Views.PrismContentPage1.xaml.g.cs
+C:\Users\qci\source\repos\PrismTestApp1\PrismTestApp1\PrismTestApp1\obj\Debug\netstandard2.0\PrismTestApp1.Views.PrismMasterDetailPage1.xaml.g.cs

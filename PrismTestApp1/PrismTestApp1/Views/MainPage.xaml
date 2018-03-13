@@ -6,6 +6,7 @@
 
     <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
         <Label Text="bkub?!!" />
+
         <Button Text="{Binding btnMessage}" Command="{Binding DoSomething}" />
     </StackLayout>
 
